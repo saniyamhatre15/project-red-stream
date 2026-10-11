@@ -1,18 +1,45 @@
-     Discontinued ⚒️
-# Project Red Stream
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=RESPONSIVE+WEBSITE+TEMPLATE;)](https://git.io/typing-svg)
+# Red Stream
 
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/whxitte)
+Red Stream is a responsive blood donation website designed to make the process of donating blood simple, informative, and accessible for everyone. The project aims to raise awareness about blood donation, help users understand eligibility and benefits, and provide a platform for blood donation-related information and interaction.
 
-Red Stream is a full stack website project based on online blood donation. This  is a responsive and userfriendly website for making the process of blood donation easy.
+This project is built as a full-stack web application using HTML, CSS, JavaScript, and PHP, with a user-friendly interface and a clean design that works well on both desktop and mobile devices.
 
-# Discontinued: 
-<b><i>Sorry to say, My working on this project is discontinued/dropped and will not do any further updates. This project is discontinued due to personal work loads, Anyway you can download this project in this condition and improve yourself.</b></i>
+## About the Project
+Red Stream focuses on creating a smooth and engaging experience for users who want to learn about blood donation, find donation-related information, and connect with the donation process more easily. The website includes sections for donation awareness, eligibility information, contact details, and user accounts for login and registration.
 
-<b><i>Read how you can run this project on your system with all functions at the bottom of this page.</i></b>
+## Key Features
+- Responsive and mobile-friendly layout
+- Blood donation awareness and information pages
+- User login and registration
+- Donation-related content and call-to-action sections
+- Contact form for inquiries
+- Clean and modern UI
+- Easy to customize and extend
 
-There is an old basic version of this project, you can find the project at https://github.com/WH1T3-E4GL3/old-red-stream
+## Tech Stack
+- HTML
+- CSS
+- JavaScript
+- PHP
 
+## Project Goal
+The main goal of this project is to support blood donation campaigns and make the donation process easier, faster, and more approachable for the community.
+
+## Live Project
+This project can be run locally using a PHP-enabled server such as XAMPP or WAMP.
+
+## Setup
+1. Clone the repository
+2. Place the project in your local server folder
+3. Start Apache and MySQL
+4. Configure the database connection in `connection.php`
+5. Open the project in your browser
+
+## License
+This project is licensed under the MIT License.
+
+## Developer
+Saniya Mhatre
 # Screenshot
 ![252156140-465974c2-8b22-441d-8406-59be5657b8ef](https://github.com/WH1T3-E4GL3/project-red-stream/assets/118425907/58b9be48-7769-4a20-a920-f331b296aab9)
 
